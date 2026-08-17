@@ -1,4 +1,3 @@
-# Feito com Muito S2 e Muito Café :)
 apiVersion: v1
 kind: Pod
 metadata:
